@@ -13,7 +13,19 @@ namespace LargeSum
         {
             string filename = Environment.CurrentDirectory + "\\numbers.txt";
             List<string> numbers = readInput(filename);
-            Console.WriteLine(numbers);
+            int digits = 0;
+            for (int i = 11; i == 0; i--)
+            {
+                int sum = 0;
+                foreach ( string number in numbers)
+                {
+                    sum = sum + System.Convert.ToInt32(number[i]);
+                }
+                digits = sum;
+            }
+
+
+            Console.WriteLine(digits);
             Console.ReadLine();
         }
 
