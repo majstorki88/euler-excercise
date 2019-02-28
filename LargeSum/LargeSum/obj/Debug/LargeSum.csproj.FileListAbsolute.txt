@@ -1,0 +1,8 @@
+D:\github\euler-excercise\LargeSum\LargeSum\bin\Debug\LargeSum.exe.config
+D:\github\euler-excercise\LargeSum\LargeSum\bin\Debug\LargeSum.exe
+D:\github\euler-excercise\LargeSum\LargeSum\bin\Debug\LargeSum.pdb
+D:\github\euler-excercise\LargeSum\LargeSum\obj\Debug\LargeSum.csprojAssemblyReference.cache
+D:\github\euler-excercise\LargeSum\LargeSum\obj\Debug\LargeSum.csproj.CoreCompileInputs.cache
+D:\github\euler-excercise\LargeSum\LargeSum\obj\Debug\LargeSum.exe
+D:\github\euler-excercise\LargeSum\LargeSum\obj\Debug\LargeSum.pdb
+D:\github\euler-excercise\LargeSum\LargeSum\bin\Debug\numbers.txt
