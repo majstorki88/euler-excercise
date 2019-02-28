@@ -1,0 +1,9 @@
+D:\euler\multipliers\multipliers\multipliers\bin\Debug\multipliers.exe.config
+D:\euler\multipliers\multipliers\multipliers\bin\Debug\multipliers.exe
+D:\euler\multipliers\multipliers\multipliers\bin\Debug\multipliers.pdb
+D:\euler\multipliers\multipliers\multipliers\obj\Debug\multipliers.csprojResolveAssemblyReference.cache
+D:\euler\multipliers\multipliers\multipliers\obj\Debug\multipliers.exe
+D:\euler\multipliers\multipliers\multipliers\obj\Debug\multipliers.pdb
+D:\euler\multipliers\multipliers\bin\Debug\multipliers.exe.config
+D:\euler\multipliers\multipliers\obj\Debug\multipliers.exe
+D:\euler\multipliers\multipliers\obj\Debug\multipliers.pdb

@@ -1,0 +1,7 @@
+D:\euler\10001stPrime\10001stPrime\bin\Debug\10001stPrime.exe.config
+D:\euler\10001stPrime\10001stPrime\bin\Debug\10001stPrime.exe
+D:\euler\10001stPrime\10001stPrime\bin\Debug\10001stPrime.pdb
+D:\euler\10001stPrime\10001stPrime\obj\Debug\10001stPrime.exe
+D:\euler\10001stPrime\10001stPrime\obj\Debug\10001stPrime.pdb
+D:\euler\10001stPrime\10001stPrime\obj\Debug\10001stPrime.csprojAssemblyReference.cache
+D:\euler\10001stPrime\10001stPrime\obj\Debug\10001stPrime.csproj.CoreCompileInputs.cache

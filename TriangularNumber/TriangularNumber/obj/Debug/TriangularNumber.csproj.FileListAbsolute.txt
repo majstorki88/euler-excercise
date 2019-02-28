@@ -1,0 +1,7 @@
+D:\euler\TriangularNumber\TriangularNumber\bin\Debug\TriangularNumber.exe.config
+D:\euler\TriangularNumber\TriangularNumber\bin\Debug\TriangularNumber.exe
+D:\euler\TriangularNumber\TriangularNumber\bin\Debug\TriangularNumber.pdb
+D:\euler\TriangularNumber\TriangularNumber\obj\Debug\TriangularNumber.csprojAssemblyReference.cache
+D:\euler\TriangularNumber\TriangularNumber\obj\Debug\TriangularNumber.csproj.CoreCompileInputs.cache
+D:\euler\TriangularNumber\TriangularNumber\obj\Debug\TriangularNumber.exe
+D:\euler\TriangularNumber\TriangularNumber\obj\Debug\TriangularNumber.pdb

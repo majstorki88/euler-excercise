@@ -1,0 +1,7 @@
+D:\euler\13AdjancentDigits\13AdjancentDigits\obj\Debug\13AdjancentDigits.csprojAssemblyReference.cache
+D:\euler\13AdjancentDigits\13AdjancentDigits\obj\Debug\13AdjancentDigits.csproj.CoreCompileInputs.cache
+D:\euler\13AdjancentDigits\13AdjancentDigits\bin\Debug\13AdjancentDigits.exe.config
+D:\euler\13AdjancentDigits\13AdjancentDigits\bin\Debug\13AdjancentDigits.exe
+D:\euler\13AdjancentDigits\13AdjancentDigits\bin\Debug\13AdjancentDigits.pdb
+D:\euler\13AdjancentDigits\13AdjancentDigits\obj\Debug\13AdjancentDigits.exe
+D:\euler\13AdjancentDigits\13AdjancentDigits\obj\Debug\13AdjancentDigits.pdb

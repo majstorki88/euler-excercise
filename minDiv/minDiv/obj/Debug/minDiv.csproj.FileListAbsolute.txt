@@ -1,0 +1,5 @@
+D:\euler\minDiv\minDiv\bin\Debug\minDiv.exe.config
+D:\euler\minDiv\minDiv\bin\Debug\minDiv.exe
+D:\euler\minDiv\minDiv\bin\Debug\minDiv.pdb
+D:\euler\minDiv\minDiv\obj\Debug\minDiv.exe
+D:\euler\minDiv\minDiv\obj\Debug\minDiv.pdb

@@ -1,0 +1,7 @@
+D:\euler\LargestProductMatrix\LargestProductMatrix\bin\Debug\LargestProductMatrix.exe.config
+D:\euler\LargestProductMatrix\LargestProductMatrix\bin\Debug\LargestProductMatrix.exe
+D:\euler\LargestProductMatrix\LargestProductMatrix\bin\Debug\LargestProductMatrix.pdb
+D:\euler\LargestProductMatrix\LargestProductMatrix\obj\Debug\LargestProductMatrix.csprojAssemblyReference.cache
+D:\euler\LargestProductMatrix\LargestProductMatrix\obj\Debug\LargestProductMatrix.csproj.CoreCompileInputs.cache
+D:\euler\LargestProductMatrix\LargestProductMatrix\obj\Debug\LargestProductMatrix.exe
+D:\euler\LargestProductMatrix\LargestProductMatrix\obj\Debug\LargestProductMatrix.pdb

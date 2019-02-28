@@ -1,0 +1,7 @@
+D:\euler\PythagorianTriplet\PythagorianTriplet\bin\Debug\PythagorianTriplet.exe.config
+D:\euler\PythagorianTriplet\PythagorianTriplet\bin\Debug\PythagorianTriplet.exe
+D:\euler\PythagorianTriplet\PythagorianTriplet\bin\Debug\PythagorianTriplet.pdb
+D:\euler\PythagorianTriplet\PythagorianTriplet\obj\Debug\PythagorianTriplet.csprojAssemblyReference.cache
+D:\euler\PythagorianTriplet\PythagorianTriplet\obj\Debug\PythagorianTriplet.csproj.CoreCompileInputs.cache
+D:\euler\PythagorianTriplet\PythagorianTriplet\obj\Debug\PythagorianTriplet.exe
+D:\euler\PythagorianTriplet\PythagorianTriplet\obj\Debug\PythagorianTriplet.pdb

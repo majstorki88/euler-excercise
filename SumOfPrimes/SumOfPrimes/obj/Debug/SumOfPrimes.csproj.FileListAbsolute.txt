@@ -1,0 +1,7 @@
+D:\euler\SumOfPrimes\SumOfPrimes\bin\Debug\SumOfPrimes.exe.config
+D:\euler\SumOfPrimes\SumOfPrimes\bin\Debug\SumOfPrimes.exe
+D:\euler\SumOfPrimes\SumOfPrimes\bin\Debug\SumOfPrimes.pdb
+D:\euler\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.csproj.CoreCompileInputs.cache
+D:\euler\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.exe
+D:\euler\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.pdb
+D:\euler\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.csprojAssemblyReference.cache

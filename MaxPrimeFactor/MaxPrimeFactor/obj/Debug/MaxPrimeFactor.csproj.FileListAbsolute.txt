@@ -1,0 +1,6 @@
+D:\euler\MaxPrimeFactor\MaxPrimeFactor\bin\Debug\MaxPrimeFactor.exe.config
+D:\euler\MaxPrimeFactor\MaxPrimeFactor\bin\Debug\MaxPrimeFactor.exe
+D:\euler\MaxPrimeFactor\MaxPrimeFactor\bin\Debug\MaxPrimeFactor.pdb
+D:\euler\MaxPrimeFactor\MaxPrimeFactor\obj\Debug\MaxPrimeFactor.csprojResolveAssemblyReference.cache
+D:\euler\MaxPrimeFactor\MaxPrimeFactor\obj\Debug\MaxPrimeFactor.exe
+D:\euler\MaxPrimeFactor\MaxPrimeFactor\obj\Debug\MaxPrimeFactor.pdb

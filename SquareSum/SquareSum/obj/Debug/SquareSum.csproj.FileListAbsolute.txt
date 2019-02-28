@@ -1,0 +1,6 @@
+D:\euler\SquareSum\SquareSum\bin\Debug\SquareSum.exe.config
+D:\euler\SquareSum\SquareSum\bin\Debug\SquareSum.exe
+D:\euler\SquareSum\SquareSum\bin\Debug\SquareSum.pdb
+D:\euler\SquareSum\SquareSum\obj\Debug\SquareSum.csprojResolveAssemblyReference.cache
+D:\euler\SquareSum\SquareSum\obj\Debug\SquareSum.exe
+D:\euler\SquareSum\SquareSum\obj\Debug\SquareSum.pdb

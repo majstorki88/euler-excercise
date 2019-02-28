@@ -1,0 +1,6 @@
+D:\euler\PalindromicNumber\PalindromicNumber\bin\Debug\PalindromicNumber.exe.config
+D:\euler\PalindromicNumber\PalindromicNumber\bin\Debug\PalindromicNumber.exe
+D:\euler\PalindromicNumber\PalindromicNumber\bin\Debug\PalindromicNumber.pdb
+D:\euler\PalindromicNumber\PalindromicNumber\obj\Debug\PalindromicNumber.exe
+D:\euler\PalindromicNumber\PalindromicNumber\obj\Debug\PalindromicNumber.pdb
+D:\euler\PalindromicNumber\PalindromicNumber\obj\Debug\PalindromicNumber.csprojResolveAssemblyReference.cache
